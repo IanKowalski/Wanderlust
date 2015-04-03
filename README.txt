@@ -1,0 +1,1 @@
+I created this repository to store any and all files related to personal projects. Use as you see fit, just don't change things without adding a description of the changes.
